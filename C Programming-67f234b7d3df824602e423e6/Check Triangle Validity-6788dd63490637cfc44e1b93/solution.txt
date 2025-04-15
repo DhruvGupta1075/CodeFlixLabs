@@ -1,0 +1,1 @@
+[{"code":"\r\n#include <stdio.h>\r\n\r\nint main() {\r\n    int a,b,c;\r\n    scanf(\"%d %d %d\",&a,&b,&c);\r\n    if (a+b>c && b+c>a && a+c>b) printf(\"Valid\");\r\n    else printf(\"Invalid\");\r\n    return 0;\r\n}\r\n","language":"c","time":"2025-04-15T16:09:53.702Z","isCorrect":true}]
