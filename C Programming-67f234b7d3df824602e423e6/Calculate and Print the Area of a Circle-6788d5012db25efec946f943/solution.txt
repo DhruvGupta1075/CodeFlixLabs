@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\n\r\nint main() {\r\n    float r;\r\n    scanf(\"%f\",&r);\r\n    printf(\"Area: %.2f\",3.14*r*r);\r\n    return 0;\r\n}","language":"c","time":"2025-04-15T14:54:57.636Z","isCorrect":true}]
