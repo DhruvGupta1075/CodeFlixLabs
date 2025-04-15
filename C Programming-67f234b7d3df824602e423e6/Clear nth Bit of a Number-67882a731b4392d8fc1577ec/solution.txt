@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\nint main(){\r\n    int n,i;\r\n    scanf(\"%d %d\",&n,&i);\r\n    int mask=~(1<<i);\r\n    n=n & mask;\r\n    printf(\"%d\",n);\r\n}","language":"c","time":"2025-04-15T15:10:53.813Z","isCorrect":true}]
