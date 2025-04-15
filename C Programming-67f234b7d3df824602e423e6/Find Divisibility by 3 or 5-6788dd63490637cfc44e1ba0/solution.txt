@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\nint main() {\r\n    int a;\r\n    scanf(\"%d\",&a);\r\n    if (a%3==0 && a%5==0) printf(\"Divisible by Both\");\r\n    else if (a%3==0) printf(\"Divisible by 3\");\r\n    else if (a%5==0) printf(\"Divisible by 5\");\r\n    else printf(\"Not Divisible\");\r\n    return 0;\r\n}\r\n","language":"c","time":"2025-04-15T16:17:18.576Z","isCorrect":true}]
